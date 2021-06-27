@@ -1,0 +1,4 @@
+# production  打包文件
+/build
+
+*.user

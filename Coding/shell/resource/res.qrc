@@ -1,0 +1,32 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+    <file>background/background_01.jpg</file>
+    <file>background/background_02.jpg</file>
+    <file>background/background_03.jpg</file>
+    <file>background/background_04.jpg</file>
+    <file>button/play.svg</file>
+    <file>button/play_hover.svg</file>
+    <file>button/play_pressed.svg</file>
+    <file>button/pause.svg</file>
+    <file>button/pause_hover.svg</file>
+    <file>button/pause_pressed.svg</file>
+    <file>button/go_next.svg</file>
+    <file>button/go_next_hover.svg</file>
+    <file>button/go_next_pressed.svg</file>
+    <file>button/go_pre.svg</file>
+    <file>button/go_pre_hover.svg</file>
+    <file>button/go_pre_pressed.svg</file>
+    <file>button/music_list.svg</file>
+    <file>button/music_list_hover.svg</file>
+    <file>button/music_list_pressed.svg</file>
+    <file>button/close.svg</file>
+    <file>button/close_hover.svg</file>
+    <file>button/close_pressed.svg</file>
+    <file>button/refresh.svg</file>
+    <file>button/refresh_hover.svg</file>
+    <file>button/refresh_pressed.svg</file>
+    <file>button/music.svg</file>
+    <file>button/volume.svg</file>
+    </qresource>
+</RCC>
